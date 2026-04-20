@@ -9,7 +9,7 @@ A Streamlit-based SQL Interview Practice App designed to help candidates prepare
 - Clean UI for interview simulation
 
 ## 🔗 Live App
-[Click here to try the app](https://interviewace-ai-zmsqewpbamktmvqt2evajv.streamlit.app)
+[[Click here to try the app](https://interviewace-ai-zmsqewpbamktmvqt2evajv.streamlit.app)](https://interviewace-ai-zmsqewp6amktmvqt2evajv.streamlit.app/)
 
 ## 🛠️ Tech Stack
 - Python
